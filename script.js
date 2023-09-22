@@ -1,0 +1,1 @@
+console.log("This is the main contant about javascript using in my personal portfolio");
